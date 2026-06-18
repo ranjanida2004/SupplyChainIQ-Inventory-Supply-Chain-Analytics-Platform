@@ -1,0 +1,16 @@
+ProductID,ProductName,Category
+P1001,Laptop,Electronics
+P1002,Mouse,Electronics
+P1003,Keyboard,Electronics
+P1004,Monitor,Electronics
+P1005,Tablet,Electronics
+P1006,Headset,Accessories
+P1007,Webcam,Accessories
+P1008,USB Hub,Accessories
+P1009,Charger,Accessories
+P1010,Power Bank,Accessories
+P1011,Mixer,Appliances
+P1012,Fan,Appliances
+P1013,Iron,Appliances
+P1014,Kettle,Appliances
+P1015,Vacuum Cleaner,Appliances
